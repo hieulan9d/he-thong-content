@@ -1,0 +1,847 @@
+# Hằng Thu — File Kiến Thức
+
+> Cập nhật lần cuối: 01/10/2026  
+> Nguồn: xuất từ dự án ChatGPT “Hằng Thu”  
+> Phạm vi: toàn bộ nguồn tôi có thể truy cập trong lượt tổng hợp này.  
+> Quy tắc: không tự suy diễn; thông tin chưa có nguồn cụ thể được đánh dấu `[CẦN BỔ SUNG]`; các điểm chưa thể xác định trạng thái được đánh dấu `[KHÔNG RÕ]`.
+
+---
+
+# 1. TỔNG QUAN THƯƠNG HIỆU
+
+## 1.1. Thương hiệu và loại hình
+
+- **Tên:** Hằng Thu Pharma / Công ty TNHH Hằng Thu Pharma.
+- **Người được xây dựng thương hiệu cá nhân:** Nguyễn Thị Hằng.
+- **Vai trò:** CEO, nhà sáng lập Công ty TNHH Hằng Thu Pharma.
+- **Lĩnh vực được mô tả trong tài liệu:** các sản phẩm/thực phẩm bổ sung về chăm sóc sức khỏe phụ nữ như dung dịch vệ sinh, viên đặt phụ khoa; tài liệu cũng nhắc tới sản phẩm tăng cường sinh lý nam giới. `[KHÔNG RÕ về danh mục đầy đủ hiện tại]`
+- **Định hướng thương hiệu cá nhân:** xây dựng hình ảnh chị Hằng thông qua câu chuyện đời thật, hành trình khởi nghiệp, sự thay đổi cuộc sống và khả năng đào tạo/hỗ trợ đội nhóm.
+
+## 1.2. Câu chuyện thương hiệu cốt lõi
+
+Các điểm đã được ghi nhận:
+
+- Chị Hằng bắt đầu hành trình khoảng **2014**.
+- Khi mới bắt đầu được nhắc tới ở tuổi **24**.
+- Bối cảnh ban đầu:
+  - nghèo khó;
+  - không có điểm tựa kinh tế lớn;
+  - hai vợ chồng ở trọ;
+  - mong muốn thay đổi cuộc sống;
+  - từng trải qua vấn đề hiếm muộn/vô sinh.
+- Vấn đề vô sinh được mô tả là **nguồn cơn dẫn chị tới sản phẩm**.
+- Giai đoạn đầu chị nhập sản phẩm trực tiếp từ một người thầy ở Nghệ An, sử dụng sản phẩm rồi bán trên mạng.
+- Chị từng tự đóng hàng, giao từng hộp; chồng là anh Hải tranh thủ sau giờ làm để ship hàng cho vợ.
+- Việc bán hàng ban đầu thực hiện trên Facebook.
+- Sau một thời gian có thêm những người đồng hành.
+- Câu chuyện được định hướng kể bằng hình ảnh/video về hành trình từ lúc khó khăn đến hiện tại.
+- Tài liệu nhấn mạnh không nhất thiết phải nói sản phẩm “tốt” thế nào; trọng tâm thương hiệu cá nhân là câu chuyện và sự thay đổi cuộc đời.
+- Định hướng hiện tại được diễn đạt là **không chỉ bán từng hộp sản phẩm mà hướng tới cơ hội kiếm tiền, thay đổi cuộc đời và đào tạo những người thực sự có khát khao**.
+
+### Tư liệu hình ảnh được nhắc tới
+
+- Hình ảnh thời hai vợ chồng ở trọ.
+- Hình ảnh cũ khi đóng từng gói/từng hộp.
+- Hình ảnh giao hàng bằng xe máy.
+- Hình ảnh quá trình xây dựng Hằng Thu.
+- Một phần tư liệu cũ đã mất do mất điện thoại; tài liệu nói rằng trước đây có rất nhiều hình ảnh nhưng điện thoại mới không còn đầy đủ.
+
+## 1.3. Các mốc lịch sử
+
+| Mốc | Nội dung | Trạng thái |
+|---|---|---|
+| 2014 | Bắt đầu xây dựng hành trình Hằng Thu | `[ĐÃ GHI NHẬN]` |
+| Khoảng 2014 | Chị Hằng bắt đầu khi khoảng 24 tuổi | `[ĐÃ GHI NHẬN]` |
+| Giai đoạn đầu | Nhập trực tiếp từ thầy ở Nghệ An, dùng rồi bán trên mạng | `[ĐÃ GHI NHẬN]` |
+| Giai đoạn đầu | Tự đóng hàng, tự giao hàng; anh Hải hỗ trợ ship | `[ĐÃ GHI NHẬN]` |
+| 2017 | Cơ cấu lại sản phẩm, nhấn mạnh USP và khả năng giải quyết nỗi đau theo nội dung trao đổi | `[ĐÃ GHI NHẬN]` |
+| 06/2017 | Nhận giải thưởng được gọi trong tài liệu là “Top 100 thương hiệu Việt Nam dẫn đầu” | `[CẦN BỔ SUNG nguồn/ảnh/chứng nhận để xác minh tên giải thưởng]` |
+| 2026 | Định hướng dùng thương hiệu cá nhân để tuyển người, xây leader và đào tạo đội nhóm | `[ĐÃ GHI NHẬN]` |
+
+## 1.4. Khách hàng mục tiêu / đối tượng nội dung
+
+### Nhóm phụ nữ 30+
+
+Định hướng đã được thống nhất trong các trao đổi:
+
+- Phụ nữ trên 30 tuổi.
+- Các vấn đề/nỗi đau được nhắc:
+  - viêm nhiễm;
+  - hiếm muộn;
+  - nội tiết suy giảm;
+  - u nang;
+  - u xơ;
+  - mùi vùng kín;
+  - khí hư;
+  - vệ sinh vùng kín;
+  - chăm sóc vùng kín;
+  - vấn đề hormone/chu kỳ;
+  - đời sống vợ chồng;
+  - phụ nữ sau 30.
+
+### Nhóm người quan tâm cơ hội kinh doanh / xây dựng đội nhóm
+
+- Người mong muốn kiếm tiền.
+- Người muốn thay đổi cuộc đời.
+- Người có khát khao.
+- Người có thể trở thành leader.
+- Leader được định hướng không nhất thiết phải bán hàng giỏi; trọng tâm là **đào tạo giỏi và liên tục xuất hiện/xây dựng thương hiệu cá nhân**.
+- Người ở gần có thể được đưa tới gặp chị Hằng; người ở xa có thể được chuyển cho chị Hằng tư vấn.
+
+## 1.5. USP / khác biệt được ghi nhận
+
+- Câu chuyện cá nhân thật và hành trình từ khó khăn đến hiện tại.
+- Sản phẩm được nói tới theo hướng có điểm khác biệt/USP và “đánh đúng nỗi đau”.
+- Thương hiệu cá nhân chị Hằng được sử dụng để tạo niềm tin trước khi tuyển người.
+- Định hướng không chỉ bán sản phẩm mà xây dựng hệ thống, đào tạo và phát triển con người.
+
+## 1.6. Đối thủ / thương hiệu khác được nhắc
+
+- Tài liệu có nhắc các sản phẩm/mặt hàng tương tự trên thị trường và việc cạnh tranh khi bán trên Facebook.
+- `[CẦN BỔ SUNG]` Không có danh sách đối thủ/thương hiệu cụ thể được xác nhận.
+
+---
+
+# 2. KIẾN THỨC CHUYÊN MÔN
+
+## 2.1. Các vấn đề phụ khoa đã được đề cập
+
+- Viêm nhiễm.
+- Hiếm muộn/vô sinh.
+- Nội tiết suy giảm.
+- U nang.
+- U xơ.
+- Mùi vùng kín.
+- Khí hư.
+- Vệ sinh vùng kín.
+- pH môi trường vùng kín.
+- Chăm sóc vùng kín sau quan hệ.
+- Hormone và chu kỳ.
+- Sức khỏe phụ nữ sau 30.
+- Đời sống vợ chồng.
+
+**Lưu ý:** các nội dung trên là danh sách chủ đề đã xuất hiện trong lịch sử dự án; tài liệu hiện có không đủ để tạo định nghĩa y khoa chính thức cho từng bệnh/vấn đề.
+
+## 2.2. Các trụ kiến thức/content đã được xác định
+
+1. **Cô bé tuổi 30+**
+   - mùi;
+   - khí hư;
+   - vệ sinh;
+   - chăm sóc vùng kín.
+2. **Hormone & chu kỳ.**
+3. **Đẹp từ bên trong.**
+4. **Hôn nhân & đời sống vợ chồng.**
+5. **Phụ nữ sau 30.**
+6. **Viên đặt phụ khoa Hằng Thu.**
+7. **Khi nào nên dùng viên đặt.**
+8. **pH – môi trường vùng kín.**
+9. **Chăm sóc sau quan hệ.**
+
+## 2.3. Sản phẩm đã được nhắc
+
+### Nhóm 1 — Viên đặt phụ khoa Hằng Thu
+
+Thành phần đã được ghi nhận trong lịch sử:
+
+- Cao khô cam thảo.
+- Chiết xuất cúc la mã.
+- Niacinamide.
+- Tinh dầu hoa hồng.
+- Glycerin.
+- Lactic acid.
+- Tinh bột bắp.
+- Lactose.
+- Các chất ổn định với mã INS được nhắc tới.
+
+Các lợi ích/công dụng đã từng được dùng trong content:
+
+- Làm sạch nhẹ nhàng.
+- Hỗ trợ khử mùi.
+- Giữ khô thoáng.
+- Hỗ trợ ngăn vi khuẩn/nấm.
+- Cân bằng pH.
+
+`[CẦN BỔ SUNG]` Công thức đầy đủ, hàm lượng từng thành phần, tiêu chuẩn sản phẩm, hồ sơ pháp lý.
+
+### Nhóm 2 — Điều kinh Hằng Thu
+
+- Sản phẩm được nhắc tới như sản phẩm **hỗ trợ sức khỏe buồng trứng**.
+- Người dùng từng yêu cầu lấy lại thông tin công dụng sản phẩm Điều kinh Hằng Thu vào 10/09/2026.
+- `[CẦN BỔ SUNG]` Thành phần, hàm lượng, công dụng đầy đủ và cách dùng chính thức.
+
+### Nhóm 3 — Gel phụ khang
+
+- Có sản phẩm Gel phụ khang.
+- `[CẦN BỔ SUNG]` Thành phần, công dụng, giá, quy cách.
+
+### Nhóm 4 — Dung dịch vệ sinh Romance VIP
+
+- Sản phẩm dung dịch vệ sinh phụ nữ.
+- `[CẦN BỔ SUNG]` Thành phần, công dụng chính thức, giá, quy cách.
+
+### Nhóm 5 — Viên uống White Skin
+
+Thành phần đã được ghi nhận:
+
+- L-Glutathione 600 mg.
+- NMN.
+- Astaxanthin.
+- Vitamin C.
+- Chiết xuất cà chua đỏ.
+- Amino acid peptide-GP (Red Ginseng) 90 mg.
+- Collagen từ Hồng Sâm.
+
+`[CẦN BỔ SUNG]` Công dụng chính thức, hàm lượng đầy đủ, cách dùng, giá, quy cách.
+
+## 2.4. FAQ đã xuất hiện
+
+- Khi nào nên dùng viên đặt?
+- pH vùng kín là gì / có vai trò gì?
+- Sau quan hệ nên chăm sóc vùng kín như thế nào?
+- Làm thế nào để chăm sóc “cô bé” tuổi 30+?
+- Vệ sinh vùng kín thế nào?
+- Mùi/khí hư có thể liên quan tới vấn đề gì?
+- Chăm sóc sức khỏe phụ nữ sau 30 như thế nào?
+
+`[CẦN BỔ SUNG]` Câu trả lời nguyên văn đầy đủ cho từng FAQ trong các chat không còn hiển thị đầy đủ.
+
+## 2.5. Nguồn tham khảo đã nhắc
+
+- Google được nhắc trong câu chuyện thương hiệu như nơi người dùng có thể tự tìm kiếm thông tin/đánh giá sản phẩm.
+- `[CẦN BỔ SUNG]` Không có danh sách tài liệu y khoa, website chuyên môn hoặc nghiên cứu được lưu đầy đủ trong nguồn hiện tại.
+
+---
+
+# 3. QUY TẮC AN TOÀN & TUÂN THỦ QUẢNG CÁO
+
+## 3.1. Những nội dung/từ ngữ cần thận trọng
+
+Trong các trao đổi có nhiều cách nói về bệnh và sản phẩm như:
+
+- “viên đặt trị các bệnh về phụ khoa”;
+- “ngăn vi khuẩn/nấm”;
+- “cân bằng pH”;
+- “điều kinh”;
+- “hỗ trợ sức khỏe buồng trứng”.
+
+Đây là các cách diễn đạt từng xuất hiện trong nội dung nguồn. Không có tài liệu đầy đủ về việc từ/cụm nào đã bị Facebook từ chối.
+
+## 3.2. Từ/cụm từ cấm hoặc từng bị từ chối
+
+`[CẦN BỔ SUNG]`
+
+Chưa có log cụ thể trong nguồn hiện tại về:
+
+- Từ bị cấm.
+- Nội dung bị Facebook từ chối.
+- Tài khoản/page bị hạn chế.
+- Chiến dịch bị gậy.
+- Lý do từ chối.
+- Cách xử lý sau từ chối.
+
+## 3.3. Disclaimer
+
+`[CẦN BỔ SUNG]`
+
+Chưa có câu disclaimer chính thức được lưu trong nguồn hiện tại.
+
+## 3.4. Giới hạn hình ảnh/video
+
+Các trao đổi có đề cập nội dung vùng kín và phụ khoa, nhưng chưa có bộ quy chuẩn hình ảnh/video chính thức được lưu.
+
+`[CẦN BỔ SUNG]`
+
+---
+
+# 4. PHONG CÁCH VIẾT CONTENT
+
+## 4.1. Định hướng tổng thể
+
+- Xây dựng thương hiệu cá nhân chị Hằng trước.
+- Dùng câu chuyện đời thật để tạo sự tò mò và kết nối.
+- Không tập trung chỉ vào việc nói sản phẩm tốt.
+- Dùng hình ảnh/video quá khứ để kể hành trình.
+- Nội dung hướng tới phụ nữ 30+.
+- Kết hợp nội dung kiến thức phụ khoa với câu chuyện cá nhân, đời sống phụ nữ và cơ hội kinh doanh.
+- Tăng tính viral bằng các hook gây tò mò, câu hỏi trực diện và những tình huống phụ nữ thường ngại nói.
+
+## 4.2. Xưng hô
+
+Các phiên bản đã từng yêu cầu:
+
+- “Hằng – chị em”.
+- Có thời điểm yêu cầu chỉnh từ một cách xưng hô khác sang **“Hằng với chị em”**.
+
+`[NHIỀU PHIÊN BẢN]` Cách xưng hô chuẩn cuối cùng được ghi nhận: **Hằng – chị em**.
+
+## 4.3. Hook viral đã xuất hiện
+
+Hook/cấu trúc được người dùng đưa làm mẫu:
+
+> “Chẳng ai chịu nói ra chuyện này, nhưng mà...”
+
+Các hook khác được yêu cầu xây dựng theo dạng câu hỏi:
+
+> “Chị Hằng ơi, em không biết mỗi ngày nên đăng nội dung gì.”
+
+> “Chị ơi, khách mua hàng thì cũng mua rồi, sao mình cứ phải chăm chăm hỏi han mãi làm gì cho cực ạ”
+
+`[CẦN BỔ SUNG]` Danh sách đầy đủ 20 + 10 + 20 hook trong các chat cũ không nằm nguyên văn trong nguồn hiện có.
+
+## 4.4. Content pillars
+
+### Trụ 1 — Cô bé tuổi 30+
+
+- Mùi.
+- Khí hư.
+- Vệ sinh.
+- Chăm sóc vùng kín.
+
+### Trụ 2 — Hormone & chu kỳ
+
+- Hormone.
+- Chu kỳ.
+- Điều kinh.
+
+### Trụ 3 — Đẹp từ bên trong
+
+- Sức khỏe.
+- Làn da.
+- White Skin.
+- Chăm sóc cơ thể.
+
+### Trụ 4 — Hôn nhân & đời sống vợ chồng
+
+- Quan hệ.
+- Chăm sóc sau quan hệ.
+- Đời sống vợ chồng.
+
+### Trụ 5 — Phụ nữ sau 30
+
+- Thay đổi cơ thể.
+- Chăm sóc sức khỏe.
+- Những vấn đề thường gặp ở phụ nữ sau 30.
+
+### Trụ 6 — Câu chuyện cá nhân chị Hằng
+
+- Nghèo khó.
+- Ở trọ.
+- Hiếm muộn/vô sinh.
+- Bắt đầu bán từng hộp.
+- Tự đóng hàng.
+- Chồng hỗ trợ giao hàng.
+- Xây dựng công ty.
+- Xây dựng đội nhóm.
+- Đào tạo.
+
+### Trụ 7 — Cơ hội kinh doanh / tuyển người
+
+- Cơ hội kiếm tiền.
+- Thay đổi cuộc đời.
+- Xây dựng thương hiệu cá nhân.
+- Leader.
+- Đào tạo đội nhóm.
+- Đưa người về hệ thống.
+
+`[CẦN BỔ SUNG]` Tỷ lệ % chính thức giữa các trụ.
+
+## 4.5. Từ ngữ đặc trưng
+
+### Đã xuất hiện
+
+- “chị em”
+- “cô bé”
+- “phụ nữ 30+”
+- “khát khao”
+- “thay đổi cuộc đời”
+- “thương hiệu cá nhân”
+- “đưa người về”
+- “leader”
+- “đào tạo”
+- “cơ hội kiếm tiền”
+
+### Tránh / chưa có quy định chính thức
+
+`[CẦN BỔ SUNG]`
+
+## 4.6. Emoji
+
+`[CẦN BỔ SUNG]` Không có bộ emoji chính thức được thống nhất trong nguồn hiện tại.
+
+---
+
+# 5. KỊCH BẢN VIDEO
+
+## 5.1. Định hướng video thương hiệu cá nhân
+
+Ý tưởng cốt lõi:
+
+- Dùng hình ảnh cũ để kể lại hành trình.
+- Không cần quay lại toàn bộ quá khứ.
+- Có thể dựng video từ ảnh cũ + voice kể chuyện.
+- Có thể tái hiện một số giai đoạn bằng diễn xuất/AI nếu phù hợp.
+- Mục tiêu là khiến người xem nhìn vào hành trình của chị Hằng và cảm nhận được sự thay đổi.
+
+## 5.2. Mạch câu chuyện
+
+1. Chị Hằng ở tuổi 24.
+2. Cuộc sống khó khăn.
+3. Hai vợ chồng ở trọ.
+4. Không có điểm tựa kinh tế lớn.
+5. Vấn đề hiếm muộn/vô sinh.
+6. Biết tới sản phẩm.
+7. Nhập sản phẩm từ người thầy ở Nghệ An.
+8. Bắt đầu bán trên mạng/Facebook.
+9. Tự đóng hàng.
+10. Tự giao hàng.
+11. Anh Hải tranh thủ ship hàng.
+12. Có thêm người đồng hành.
+13. Khó khăn khi hàng chững lại và cạnh tranh.
+14. Cơ cấu lại sản phẩm.
+15. Năm 2017 có giải thưởng được tài liệu gọi là Top 100 thương hiệu Việt Nam dẫn đầu.
+16. Phát triển công ty/hệ thống.
+17. Xây dựng thương hiệu cá nhân.
+18. Chuyển trọng tâm sang đào tạo, tuyển người và xây dựng đội nhóm.
+
+## 5.3. Script nguyên văn từ nguồn
+
+> “câu chuyện là chồng con  
+> sau đó bán sản phẩm Hằng Thu bán từng hộp bạn nên  
+> nên thương thầm lặng điện tử là Facebook  
+> sau đó cỡ mấy tháng sau bắt đầu  
+> có những người những người người này đồng hành  
+> đó rồi bây giờ là hiện tại đã có cơ ngơi như thế này  
+> có công ty như thế này  
+> có tài sản như thế này  
+> có cuộc sống hạnh phúc như thế này  
+> thì kiểu là ý  
+> nói là cái câu chuyện truyền động lực Cho người khác  
+> nhìn vào đó cũng muốn được như vậy á”
+
+## 5.4. Một đoạn định hướng kể chuyện nguyên văn
+
+> “thì các bạn đừng nghĩ các bạn không làm được  
+> bởi vì chính tôi ngày trước cũng đã từng một người  
+> khởi nghiệp như thế này  
+> thì nó mới truyền được động lực Cho người khác”
+
+## 5.5. Định hướng video tuyển người nguyên văn
+
+> “còn bây giờ tôi ở đây tôi bán cơ hội kiếm tiền  
+> và sự thay đổi cuộc đời Cho nhiều người  
+> chứ tôi không bán từng hộp một  
+> và tôi chỉ nhận kèm cặp  
+> những anh chị thực sự có khát khao  
+> có gọi là mong muốn thay đổi cuộc đời  
+> thì về đây tôi kèm cặp”
+
+## 5.6. Định hướng leader nguyên văn
+
+> “em xây dựng thương hiệu cá nhân  
+> và sau đó tuyển từng người một  
+> thì vào trong group là có chị đào tạo rồi cái này dễ  
+> ý là mình chỉ biết đưa con người về thôi đúng rồi”
+
+và:
+
+> “leader không cần phải bán hàng giỏi  
+> nhưng leader chỉ cần đào tạo giỏi  
+> đào tạo giỏi ở đây bằng cách là cứ xuất hiện  
+> giống như kiểu chị  
+> vậy thôi”
+
+## 5.7. AI video / công cụ
+
+Các chat có yêu cầu kịch bản video AI và prompt, nhưng nguồn hiện tại không chứa đầy đủ toàn bộ prompt/cấu hình.
+
+`[CẦN BỔ SUNG]`
+
+- Veo.
+- Google Flow.
+- Kling.
+- ChatGPT Image.
+- ElevenLabs.
+- Thiết lập cụ thể.
+- Prompt nguyên văn.
+- Kết quả tốt/xấu.
+
+---
+
+# 6. PHONG CÁCH THIẾT KẾ / POSTER
+
+## 6.1. Thông tin đã xác định
+
+`[CẦN BỔ SUNG]`
+
+Nguồn hiện tại không có bộ nhận diện thiết kế chính thức của Hằng Thu với:
+
+- Mã màu HEX.
+- Font.
+- Kích thước poster chuẩn.
+- Quy định logo.
+- Hotline.
+- Địa chỉ.
+- Disclaimer trên poster.
+
+## 6.2. Hình ảnh thương hiệu cá nhân
+
+Định hướng sử dụng:
+
+- Hình ảnh đời thật của chị Hằng.
+- Hình ảnh quá khứ.
+- Hình ảnh đóng hàng.
+- Hình ảnh hai vợ chồng.
+- Hình ảnh quá trình phát triển công ty.
+- Hình ảnh hiện tại thể hiện thành quả.
+
+## 6.3. Brief poster
+
+`[CẦN BỔ SUNG]`
+
+Không có brief poster đầy đủ trong nguồn hiện tại.
+
+---
+
+# 7. QUY TẮC THEO NỀN TẢNG
+
+| Nền tảng | Độ dài | Đặc điểm | Lưu ý riêng |
+|---|---|---|---|
+| Facebook Fanpage | `[CẦN BỔ SUNG]` | Được nhắc là nền tảng chị Hằng bắt đầu bán hàng | Có thể dùng ảnh + voice/video để kể chuyện |
+| Facebook Ads | `[CẦN BỔ SUNG]` | `[CẦN BỔ SUNG]` | `[CẦN BỔ SUNG]` |
+| TikTok | `[CẦN BỔ SUNG]` | Được nhắc trong bối cảnh bán hàng/tiếp thị liên kết | `[CẦN BỔ SUNG]` |
+| Instagram | `[CẦN BỔ SUNG]` | `[CẦN BỔ SUNG]` | `[CẦN BỔ SUNG]` |
+| Zalo | `[CẦN BỔ SUNG]` | `[CẦN BỔ SUNG]` | `[CẦN BỔ SUNG]` |
+
+---
+
+# 8. THÔNG TIN VẬN HÀNH
+
+## 8.1. Địa chỉ / hotline
+
+`[CẦN BỔ SUNG]`
+
+## 8.2. Link kênh
+
+`[CẦN BỔ SUNG]`
+
+- Facebook.
+- TikTok.
+- Website.
+- Zalo.
+
+## 8.3. Hashtag thương hiệu
+
+`[CẦN BỔ SUNG]`
+
+## 8.4. Quy trình tuyển người / vận hành đội nhóm
+
+Các điểm đã được ghi nhận:
+
+1. Xây dựng thương hiệu cá nhân chị Hằng.
+2. Xuất hiện liên tục.
+3. Đăng nội dung về câu chuyện cá nhân.
+4. Đăng nội dung tạo cơ hội cho người muốn kiếm tiền.
+5. Người quan tâm tự inbox.
+6. Người ở gần được đưa tới gặp chị Hằng.
+7. Người ở xa được chuyển cho chị Hằng gọi điện/tư vấn.
+8. Leader tập trung đưa người về.
+9. Chị Hằng phụ trách đào tạo/kèm cặp.
+
+Đoạn nguyên văn:
+
+> “chỉ cần xuất hiện xây dựng thương hiệu cá nhân  
+> và liên tục đăng bài về tuyển người  
+> tạo cơ hội Cho họ là kiếm tiền  
+> thì những người họ đang mong muốn kiếm tiền  
+> ngoài Kia họ sẽ tự inbox họ hỏi”
+
+## 8.5. Lịch đăng
+
+`[CẦN BỔ SUNG]`
+
+Chưa có lịch đăng/tần suất chính thức trong nguồn hiện tại.
+
+---
+
+# 9. SỐ LIỆU & KẾT QUẢ
+
+## 9.1. Các số liệu xuất hiện trong nguồn
+
+| Số liệu | Nội dung | Trạng thái |
+|---:|---|---|
+| 24 tuổi | Tuổi chị Hằng khi mới bắt đầu | `[ĐÃ GHI NHẬN]` |
+| 2014 | Mốc bắt đầu xây dựng | `[ĐÃ GHI NHẬN]` |
+| 2017 | Mốc cơ cấu lại sản phẩm | `[ĐÃ GHI NHẬN]` |
+| 06/2017 | Mốc nhận giải thưởng được gọi là Top 100 thương hiệu Việt Nam dẫn đầu | `[CẦN XÁC MINH]` |
+| 10+ năm | Số năm bán sản phẩm được nhắc trong một đoạn tuyển người | `[KHÔNG RÕ chính xác]` |
+| 15.000 | Quy mô hệ thống từng được nhắc trong lịch sử dự án | `[CẦN XÁC MINH nguồn cụ thể]` |
+| 50.000 | Chi phí nhân công được nói trong ví dụ về một chiếc áo | `[KHÔNG RÕ đơn vị/ngữ cảnh đầy đủ]` |
+| 30.000 | Chi phí khác được nói trong cùng ví dụ | `[KHÔNG RÕ đơn vị/ngữ cảnh đầy đủ]` |
+| vài tỷ | Doanh thu/đóng góp của một team theo đoạn hội thoại | `[KHÔNG RÕ]` |
+| 200.000.000 | Mức thu nhập/lợi nhuận được nói trong ví dụ về anh Trọng | `[KHÔNG RÕ]` |
+| 5–10 triệu | Mức lợi nhuận của một công ty/chi nhánh trong ví dụ | `[KHÔNG RÕ]` |
+| 10–20 triệu | Mức lợi nhuận khác được nhắc trong ví dụ | `[KHÔNG RÕ]` |
+| 25% | Ví dụ về lợi nhuận một tháng | `[KHÔNG RÕ]` |
+| 5% / 20% | Ví dụ về tỷ lệ giữ lại/được lấy | `[KHÔNG RÕ]` |
+| 8% | Tỷ lệ lợi nhuận trong ví dụ bán hàng trên TikTok/tiếp thị liên kết | `[KHÔNG RÕ]` |
+| 1 tỷ | Doanh thu ví dụ được nhắc | `[KHÔNG PHẢI số liệu Hằng Thu]` |
+| 80.000.000 | 8% của 1 tỷ trong ví dụ | `[KHÔNG PHẢI số liệu Hằng Thu]` |
+
+## 9.2. Kết quả quảng cáo
+
+`[CẦN BỔ SUNG]`
+
+Không có bảng số liệu ads đầy đủ trong nguồn hiện tại.
+
+Chưa có dữ liệu xác nhận về:
+
+- Ngân sách.
+- CPM.
+- CTR.
+- CPC.
+- Giá/tin nhắn.
+- Số đơn.
+- Doanh thu.
+- ROAS.
+- Tỷ lệ chuyển đổi.
+
+## 9.3. Bài/video hiệu quả nhất
+
+`[CẦN BỔ SUNG]`
+
+Không có dữ liệu định lượng đủ để xác định.
+
+## 9.4. Bài/video thất bại
+
+`[CẦN BỔ SUNG]`
+
+## 9.5. Target đã thử
+
+`[CẦN BỔ SUNG]`
+
+## 9.6. Bài học được ghi nhận trực tiếp
+
+- Sản phẩm cần có USP.
+- Sản phẩm cần đánh đúng nỗi đau.
+- Sản phẩm cần có sự nổi trội hơn các sản phẩm khác.
+- Khi hàng chững lại, cần cơ cấu lại sản phẩm.
+- Câu chuyện cá nhân có thể được dùng làm tài sản truyền thông.
+- Xây dựng thương hiệu cá nhân trước khi tuyển người giúp tạo sự tò mò.
+- Không nên chỉ nói trực tiếp “đi theo tôi để kiếm 100–200 triệu” vì người nghe có thể không tin.
+- Thay vào đó, câu chuyện về một người thật và hành trình thật được dùng để tạo sự tò mò.
+- Leader được định hướng tập trung vào đào tạo và xuất hiện/xây dựng thương hiệu cá nhân.
+
+---
+
+# 10. CẬP NHẬT GẦN NHẤT — DÒNG THỜI GIAN
+
+| Ngày | Thay đổi |
+|---|---|
+| 2026-06-20 | Triển khai các trụ content chăm sóc phụ khoa: viên đặt Hằng Thu, khi nào nên dùng viên đặt, pH, sau quan hệ |
+| 2026-07-02 | Phát triển hướng content hỏi–đáp về bán hàng, chăm sóc khách và hệ thống |
+| 2026-07-13 | Tiếp tục xây dựng thương hiệu cá nhân chị Nguyễn Thị Hằng |
+| 2026-08-12 | Phát triển kịch bản video AI về chăm sóc vùng kín |
+| 2026-08-14 | Xác định hướng phụ nữ 30+, các nỗi đau và các trụ nội dung chính |
+| 2026-09-04 | Phát triển hệ thống hook viral và content hướng tới chị em |
+| 2026-09-10 | Yêu cầu lấy lại thông tin công dụng Điều kinh Hằng Thu |
+| 2026-10-01 | Tổng hợp nguồn thành file kiến thức Hằng Thu |
+
+---
+
+# PHỤ LỤC A — MÂU THUẪN / NHIỀU PHIÊN BẢN
+
+| Chủ đề | Phiên bản 1 | Phiên bản 2 | Nguồn |
+|---|---|---|---|
+| Cách xưng hô | Có các phiên bản xưng hô khác nhau trong quá trình viết | “Hằng – chị em” | Chat Soạn lại content viral, 04/09/2026 |
+| Thời gian xây dựng | “10–11 năm” | “2014”, “12 năm rồi” | Nội-dung-cốt-lõi.txt |
+| Nguồn gốc sản phẩm | Nhập trực tiếp từ thầy ở Nghệ An | Chưa có thông tin đầy đủ về quy trình nghiên cứu/phát triển | Nội-dung-cốt-lõi.txt |
+| Vai trò vô sinh/hiếm muộn | Là nỗi đau | Được mô tả là nguồn cơn dẫn tới sản phẩm | Nội-dung-cốt-lõi.txt |
+| Định vị bán hàng | Bán từng hộp sản phẩm | Bán cơ hội kiếm tiền và sự thay đổi cuộc đời | Nội-dung-cốt-lõi.txt |
+| Vai trò leader | Có thể làm thị trường cụ thể | Không nhất thiết phải bán hàng giỏi, trọng tâm là đào tạo và xuất hiện | Nội-dung-cốt-lõi.txt |
+| Content chính | Sản phẩm/phụ khoa | Thương hiệu cá nhân + phụ nữ 30+ + cơ hội đội nhóm | Các chat dự án |
+
+---
+
+# PHỤ LỤC B — CẦN BỔ SUNG
+
+## Thương hiệu
+
+- [CẦN BỔ SUNG] Tên pháp lý đầy đủ và thông tin nhận diện chính thức.
+- [CẦN BỔ SUNG] Địa chỉ.
+- [CẦN BỔ SUNG] Hotline.
+- [CẦN BỔ SUNG] Website.
+- [CẦN BỔ SUNG] Fanpage.
+- [CẦN BỔ SUNG] TikTok.
+- [CẦN BỔ SUNG] Zalo.
+- [CẦN BỔ SUNG] Bộ nhận diện thương hiệu.
+
+## Sản phẩm
+
+- [CẦN BỔ SUNG] Bảng giá hiện tại.
+- [CẦN BỔ SUNG] Quy cách đóng gói.
+- [CẦN BỔ SUNG] Thành phần đầy đủ của từng sản phẩm.
+- [CẦN BỔ SUNG] Công dụng chính thức.
+- [CẦN BỔ SUNG] Cách dùng.
+- [CẦN BỔ SUNG] Đối tượng sử dụng.
+- [CẦN BỔ SUNG] Chống chỉ định/cảnh báo.
+- [CẦN BỔ SUNG] Hồ sơ pháp lý.
+
+## Content
+
+- [CẦN BỔ SUNG] Toàn bộ bài viết nguyên văn từ các chat cũ chưa còn trong ngữ cảnh đầy đủ.
+- [CẦN BỔ SUNG] Toàn bộ bộ hook viral đã viết.
+- [CẦN BỔ SUNG] Tỷ lệ % content pillars.
+- [CẦN BỔ SUNG] Danh sách series định kỳ.
+- [CẦN BỔ SUNG] Bộ từ ngữ cấm/tránh.
+- [CẦN BỔ SUNG] Bộ emoji chuẩn.
+
+## Video / AI
+
+- [CẦN BỔ SUNG] Toàn bộ prompt AI nguyên văn.
+- [CẦN BỔ SUNG] Thiết lập Veo/Flow/Kling/ElevenLabs.
+- [CẦN BỔ SUNG] Quy chuẩn nhân vật AI.
+- [CẦN BỔ SUNG] Các video đã duyệt/đã đăng.
+- [CẦN BỔ SUNG] Kết quả từng video.
+
+## Quảng cáo
+
+- [CẦN BỔ SUNG] Lịch sử chiến dịch.
+- [CẦN BỔ SUNG] Ngân sách.
+- [CẦN BỔ SUNG] CPM/CTR/CPC.
+- [CẦN BỔ SUNG] Giá tin nhắn.
+- [CẦN BỔ SUNG] Số đơn/doanh thu.
+- [CẦN BỔ SUNG] Target.
+- [CẦN BỔ SUNG] Nội dung từng chiến dịch.
+- [CẦN BỔ SUNG] Các lần Facebook từ chối quảng cáo.
+
+## Tài liệu / chứng nhận
+
+- [CẦN BỔ SUNG] Tài liệu chứng minh giải thưởng tháng 06/2017.
+- [CẦN BỔ SUNG] Tài liệu xác nhận quy mô hệ thống 15.000 thành viên.
+- [CẦN BỔ SUNG] Các chứng nhận sản phẩm.
+
+---
+
+# PHỤ LỤC C — CÁC ĐOẠN NGUYÊN VĂN QUAN TRỌNG TỪ “NỘI-DUNG-CỐT-LÕI.TXT”
+
+## C.1. Về hành trình ban đầu
+
+> “không có điểm tựa lớn mạnh về kinh tế này  
+> lấy chồng 2 vợ chồng ở trọ này  
+> rồi khát khao là 2 vợ chồng ở trọ luôn chị ở trọ mà  
+> chứ nhà đâu ở”
+
+## C.2. Về tự đóng và giao hàng
+
+> “những cái lúc mà đóng hàng  
+> trời nắng trời mưa là chị hay đến xe máy ngoài đường  
+> nè mà giờ hông có chụp lại  
+> chị tự làm luôn  
+> ý nói là ngày xưa là tự giao từng hộp em  
+> ừ chú Hải trưa đi làm về là tranh thủ đi ship Cho vợ”
+
+## C.3. Về năm 2014
+
+> “cách đây bao nhiêu năm chị cách đây 10 11 năm rồi  
+> 11 năm là năm năm mấy là chị 2.014  
+> 2.014 là bắt đầu xây dựng 12 năm rồi  
+> đúng rồi chính xác rồi”
+
+## C.4. Về nguồn sản phẩm
+
+> “không có nghiên cứu chị  
+> lúc đó chị nhập trực tiếp từ thầy  
+> chị đi bán trên mạng ấy à  
+> là là chị mua từ thầy”
+
+## C.5. Về Nghệ An
+
+> “thầy đó là ở bên a thầy ở Nghệ An  
+> thầy ở Nghệ An ừ  
+> nguồn gốc xuất xứ mình nói Nghệ An thôi”
+
+## C.6. Về khó khăn và cơ cấu lại sản phẩm
+
+> “lúc đầu thì hàng đi rất là nhiều  
+> sau đó thời cùng thời điểm đó thì có nhiều mặt hàng  
+> nó cũng tương tự  
+> sẽ bán được  
+> bán trên nền tảng Facebook thì hàng bắt đầu chứng lại  
+> nhưng sau đó hàng thu Phật mà lại chơi bài trội hơn  
+> đó là xác định sản phẩm phải có USB  
+> phải có độ đánh đủ được nỗi đau  
+> và phải có sự nổi trội hơn những sản phẩm khác”
+
+## C.7. Về năm 2017
+
+> “vào 2017 à  
+> ừ 2 không 17 và cũng chính 6/2017  
+> Hằng Thu phước ma  
+> được vinh dự vào Sài Gòn nhận giải thưởng đầu tiên  
+> là giải thưởng  
+> top 100 thương hiệu Việt Nam dẫn đầu”
+
+## C.8. Về định hướng thương hiệu cá nhân
+
+> “thì mình phải biết câu chuyện thật là  
+> thật là cảm thật là cuốn ừ sâu  
+> sâu cảm cuốn thì hội trường nó thích nghe những cái đó  
+> và đi đâu mọi người mình cũng dùng cái câu chuyện đó  
+> bằng hình ảnh  
+> bằng video đó mình chỉ chia sẻ lại  
+> chứ mình không cần phải nói sản phẩm mình tốt  
+> như thế nào hết”
+
+## C.9. Về tuyển người
+
+> “còn bây giờ tôi ở đây tôi bán cơ hội kiếm tiền  
+> và sự thay đổi cuộc đời Cho nhiều người  
+> chứ tôi không bán từng hộp một”
+
+## C.10. Về kèm cặp
+
+> “và tôi chỉ nhận kèm cặp  
+> những anh chị thực sự có khát khao  
+> có gọi là mong muốn thay đổi cuộc đời  
+> thì về đây tôi kèm cặp”
+
+## C.11. Về leader
+
+> “leader không cần phải bán hàng giỏi  
+> nhưng leader chỉ cần đào tạo giỏi  
+> đào tạo giỏi ở đây bằng cách là cứ xuất hiện  
+> giống như kiểu chị  
+> vậy thôi”
+
+## C.12. Về thương hiệu cá nhân và tuyển người
+
+> “em xây dựng thương hiệu cá nhân  
+> và sau đó tuyển từng người một  
+> thì vào trong group là có chị đào tạo rồi cái này dễ”
+
+## C.13. Về cách tạo niềm tin
+
+> “em phải truyền thông về chị trước  
+> khi người ta tò mò về chị là AI  
+> tự khắc em sẽ nói một ngày nào đó  
+> chị có muốn gặp chị này không”
+
+## C.14. Về cách tiếp cận cơ hội
+
+> “chứ không thể nói là bây giờ chị đi Theo em  
+> em em  
+> em hướng dẫn chị cách kiếm trăm triệu 200.000.000  
+> họ lại không có tin  
+> nhưng mà họ sẽ tin  
+> và họ sẽ mở lòng”
+
+---
+
+# GHI CHÚ VỀ ĐỘ TIN CẬY CỦA FILE
+
+- Nội dung trong file này được tổng hợp từ các nguồn mà hệ thống cung cấp trong lượt làm việc.
+- Phần nội-dung-cốt-lõi.txt là nguồn nguyên văn chính cho câu chuyện thương hiệu và định hướng kinh doanh.
+- Các thông tin từ những chat được liệt kê ở bước kiểm kê nhưng không còn toàn văn trong nguồn hiện tại chỉ được ghi ở mức thông tin đã biết; không tái dựng nguyên văn khi không có dữ liệu.
+- Không tự xác minh hoặc bổ sung thông tin y khoa/pháp lý/giải thưởng bằng nguồn ngoài.
+- Những mục `[CẦN BỔ SUNG]` cần được bổ sung từ lịch sử chat/file gốc trước khi xem đây là bộ dữ liệu hoàn chỉnh để nạp vào AI khác.

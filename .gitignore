@@ -1,0 +1,10 @@
+﻿# Ma nguon Agent-Reach (ban clone cua Panniantong/Agent-Reach) - cai lai bang cai-agent-reach.bat
+content-room/Agent-Reach/
+_to_delete/
+.env
+*.cookie
+*cookies*.json
+__pycache__/
+*.pyc
+.venv/
+~$*
